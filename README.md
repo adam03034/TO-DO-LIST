@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Todo List Application
 
 Moderná Todo aplikácia vytvorená pomocou React a Vite s pokročilými funkciami pre efektívnu správu úloh.
